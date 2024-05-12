@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bizpole</string>
+    <string name="login_text">Login </string>
+    <string name="username">Username</string>
+    <string name="mail">email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="register_text">Don\'t have an Account? Register here</string>
+    <string name="having_account">Have an account? Sign In</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="search_song">Search Song</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="logout">Logout</string>
+    <string name="favorite_button">Favorite Button</string>
+    <string name="favorite_songs">Favorite Songs</string>
+</resources>

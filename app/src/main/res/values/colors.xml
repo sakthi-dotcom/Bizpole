@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4fa853</color>
+    <color name="pink">#e05d5d</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="colorPrimary">#f769ca</color>
+    <color name="colorBackgroundLoginBottom">#452f75</color>
+    <color name="colorPrimaryDark">#000023</color>
+
+    <!--    colors for sign up activity    -->
+    <color name="colorPrimarySignUp">#f769ca</color>
+    <color name="colorBackgroundLoginBottomSignUp">#1e2b73</color>
+    <color name="colorPrimaryDarkSignUp">#010137</color>
+</resources>
